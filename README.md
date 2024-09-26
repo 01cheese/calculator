@@ -55,4 +55,4 @@ To run this calculator, you need to have Python installed on your system.
 
 ## Screenshots
 
-![Calculator Screenshot](path_to_screenshot.png)
+![Calculator Screenshot](![image](https://github.com/user-attachments/assets/417ffe02-e7f6-4b3e-a1e7-887f3945e795))

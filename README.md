@@ -54,5 +54,6 @@ To run this calculator, you need to have Python installed on your system.
 - Enhance UI responsiveness on different screen resolutions.
 
 ## Screenshots
+![image](https://github.com/user-attachments/assets/6cdca17b-c416-45d1-9928-de1b50432506)
 
-![Calculator Screenshot](![image](https://github.com/user-attachments/assets/417ffe02-e7f6-4b3e-a1e7-887f3945e795))
+
